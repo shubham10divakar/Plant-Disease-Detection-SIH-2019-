@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "camera-handling",
+  "private_key_id": "896bea756c07135e2a93675c2684012f9086e1d8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvzCXbPPD1Vkk1\n9NyGE2mQH/ez4LQLEalggHfgiYqSOP7XRrfrExu79K5S3o5/P2cQj7rLziKAultV\n0ZyBSNt6vGm48ftYe9vffgd+XUWs5z0Huuc9hmr1Jty78eXeYLhyV3pynIE+K01e\ncNekx1trCbo8E+qqsS6EchGt1WNeOewnFaFv1EvJwTNXd/Ha5hgLOiwxDogF8xnL\nW71izeCSaHy+c8IIRLrdzQxQXnkRFu+x5HBuGs29FnaNXsL7kTu2hV5Z5GAW5EYO\nOkRCN/1foR3gmcp2Jri8x1VbJeGUhVfuJIYv/CrqTa2jtSrVPqtCVlkJ7pD/6bsD\niMTOvWnNAgMBAAECggEAJBSbgXFyx/u3Z2xT1W3HCPZSrbe05B+yGnULhYldKDEr\n9q2UQlpH4y3vGGGGsA2oftDtBvbOBIsbA1RT0YINT9W7QiLiEhFLuYVBjvkgO4Iz\nN7Kv0qQTsDCTdbyKT/eca5VSM5M1AHg9NyCkVbS36dJTh5CT5YgbcsIBqGKnNBeJ\n0t4/9Brfi4tv7Sv4On8TZXUFWUrUcbtCCJ8Y9XOr05qoqM8uJVj0ObP9sm1UhlBr\n438BWF1aAdQa/8k5cmWfQoeN2gZrxFNtagfh+amo6jn4fYhmpwuhIAk5Il8XsyGg\ntDUqS4yMSTpCMfbDMXw0P6o/rVO73OqsBevhcsPcQQKBgQD0O/9tyMRDtZx6yHPw\ntxlnGsy+dh5VExjqy9iM6xDfSya7Ek7UdvNeC+zpG5ccY/K9/tdJ72+afYdX2bac\neafaYDtER+dO7nx7CsvPO64th0Gu/+DJ0Dwxtz1VNGXNdqbUhsZIHVQZpBIoyKPu\naPQNUyXdlJRWhf3WoeJJWngEQQKBgQC4RCgtLzC8Yjb0WzsAHhRNdznZivRG5ycs\nkaob6qOf78n8Q6eZu/LQIR4YOd1ZoN8Lq2SRtiYx2ckzWDAJjCA/ZQiZbv1rFzma\nAXrRjPiZFh7tnoZ6Pgqc4I/fpGmCJLlhJNLn/+JQg4VN5Tx3EkZjJVAUPBmWBiMg\nEezqAraSjQKBgEyNmcyRh2Mpw7iAqEalPaMhtVdlsrA74i2GY4QYEhvLdIJihK73\n8eRinImcikrt0SJYhKa6FCM6gXe52BFH2KMMUsdeOlR1UDNI+QUl0byXjrEJpy3a\nxWNX6jOQzvAN5tDqxa/I8Zlv4flCmo+Z+hVLIK1Jaw2LxjrGVyVi5AeBAoGAKlON\nnwNuAHfXA75JCTfflgPDCBOBFSBXwUccehklyME99nJb91ZS6jgRP6NbExF+6qFO\nEqJyl5TdQKwLLMZBSg6dMRFrqMPG+XdJjQUCvbd1F0QIw9+odGyo38hWbAyfgI8C\n20PN6oyrfD8h6oAKJxAVGvDLN8jlHKLBdud0pKkCgYEA5AGfqoAQpn59p0fAsx4S\n08I+NWP6/VYenrVf+LhrEXMLLG82cTEbYXxN5kGgOmvPuA0EhbCxDCxdGd4TbnsH\nGEsZRVFtbuBzRoJdQXPwPVDnbHgUraMa1IGSQyzeGbHq3wz+0Bxv3TMzDgqTCCYf\nyloOreWmVgQZCYoXH529Wic=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-0gl8d@camera-handling.iam.gserviceaccount.com",
+  "client_id": "102022092087925295524",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-0gl8d%40camera-handling.iam.gserviceaccount.com"
+}
